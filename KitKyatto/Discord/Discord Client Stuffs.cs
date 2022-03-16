@@ -19,7 +19,7 @@ namespace KitKyatto
             client = new DiscordSocketClient();
             client.MessageReceived += Commands;
 
-            string token = "OTQyMTYyOTkxOTU5NDA0NTc0.YggfqQ.hCgfgBWUV8YIWUsiSZZ7BC7Mxu8";
+            string token = "token";
 
             await client.LoginAsync(TokenType.Bot, token);
             await client.StartAsync();
