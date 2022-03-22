@@ -34,7 +34,8 @@ namespace KitKyatto
             Console.WriteLine("\n\n" + search + "'s Bio: " + user.Bio);
 
             Console.WriteLine("\n\n" + search + "'s Account was created at " + user.CreatedAt.DateTime);
-
+            
+            Console.WriteLine("\n\n" + search " is very weird and annoying
 
 
             Console.ForegroundColor = ConsoleColor.White;
