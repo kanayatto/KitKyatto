@@ -12,6 +12,9 @@ namespace KitKyatto
         
         public async void uwu()
         {
+            //this is very easy code and I probably won't change it anytime soon, so you can edit yourself if you want :)
+            //btw pls follow me, im desperate
+            //ily, byebye
             Console.ForegroundColor = ConsoleColor.White;
             var client = new GitHubClient(new ProductHeaderValue("uwu"));
             var creds = new Credentials("enter here uwu");
