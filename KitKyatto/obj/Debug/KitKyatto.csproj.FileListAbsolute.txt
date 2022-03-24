@@ -49,3 +49,8 @@ C:\Users\floof\source\repos\KitKyatto\KitKyatto\bin\Debug\System.Interactive.Asy
 C:\Users\floof\source\repos\KitKyatto\KitKyatto\bin\Debug\System.Linq.Async.xml
 C:\Users\floof\source\repos\KitKyatto\KitKyatto\bin\Debug\System.Memory.xml
 C:\Users\floof\source\repos\KitKyatto\KitKyatto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\floof\Source\Repos\kanayatto\KitKyatto\KitKyatto\obj\Debug\KitKyatto.csproj.AssemblyReference.cache
+C:\Users\floof\Source\Repos\kanayatto\KitKyatto\KitKyatto\obj\Debug\KitKyatto.csproj.SuggestedBindingRedirects.cache
+C:\Users\floof\Source\Repos\kanayatto\KitKyatto\KitKyatto\obj\Debug\KitKyatto.exe.config
+C:\Users\floof\Source\Repos\kanayatto\KitKyatto\KitKyatto\obj\Debug\KitKyatto.csproj.CoreCompileInputs.cache
+C:\Users\floof\Source\Repos\kanayatto\KitKyatto\KitKyatto\obj\Debug\KitKyatto.pdb

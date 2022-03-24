@@ -30,3 +30,31 @@
 *.exe
 *.out
 *.app
+/KitKyatto Bot/Properties/AssemblyInfo.cs
+/KitKyatto Bot/Properties
+/KitKyatto Bot/Program.cs
+/KitKyatto Bot/packages.config
+/KitKyatto Bot/obj/Release/KitKyattoBot.csproj.AssemblyReference.cache
+/KitKyatto Bot/obj/Release/KitKyatto.csproj.AssemblyReference.cache
+/KitKyatto Bot/obj/Release/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/KitKyatto Bot/obj/Release
+/KitKyatto Bot/obj/Debug/KitKyattoBot.csproj.SuggestedBindingRedirects.cache
+/KitKyatto Bot/obj/Debug/KitKyattoBot.csproj.FileListAbsolute.txt
+/KitKyatto Bot/obj/Debug/KitKyattoBot.csproj.CoreCompileInputs.cache
+/KitKyatto Bot/obj/Debug/KitKyattoBot.csproj.AssemblyReference.cache
+/KitKyatto Bot/obj/Debug/KitKyatto.exe.config
+/KitKyatto Bot/obj/Debug/KitKyatto.csproj.AssemblyReference.cache
+/KitKyatto Bot/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/KitKyatto Bot/obj/Debug
+/KitKyatto Bot/obj
+/KitKyatto Bot/KitKyattoBot.csproj
+/KitKyatto Bot/Discord/Discord Client Stuffs.cs
+/KitKyatto Bot/Discord
+/KitKyatto Bot/App.config
+/KitKyatto Bot
+/KitKyatto/obj/Release/KitKyatto.csproj.AssemblyReference.cache
+/KitKyatto/obj/Release/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/KitKyatto/obj/Release
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs
